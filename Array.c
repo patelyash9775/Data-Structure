@@ -4,7 +4,7 @@
 Traverse(int a[],int n)
 {
 	int i;
-	printf("Traversing\n");
+	printf("Traversing \n");
 	for(i=0;i<n;i++)
 	{
 		printf(" %d",a[i]);
