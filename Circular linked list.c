@@ -267,7 +267,7 @@ void main()
         Delete_at_end();
         break;
      case 6:
-        printf("Enter a key : ");
+        printf("Enter a key: ");
         scanf("%d",&key);
         Delete_at_afternode(key);
         break;
